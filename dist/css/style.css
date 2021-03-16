@@ -10,8 +10,11 @@ body{
     border-bottom: 3px solid lightseagreen;
     opacity: 0.7;
 }
+.title{
+    font-size: 30px;
+}
 #home-section{
-    background-image: url(../img/home.jpg);
+    background-image: url(../img/travel.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;  /*A background-image that will not scroll with the page (fixed) */
